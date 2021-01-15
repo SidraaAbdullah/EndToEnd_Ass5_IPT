@@ -1,0 +1,15 @@
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Test.exe.config
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Test.exe
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Test.pdb
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\EntityFramework.dll
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Data.dll
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Data.pdb
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\IPT.OnlineShopping.Data.dll.config
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\EntityFramework.xml
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\obj\Debug\IPT.OnlineShopping.Test.csprojAssemblyReference.cache
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\obj\Debug\IPT.OnlineShopping.Test.csproj.CoreCompileInputs.cache
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\obj\Debug\IPT.OnlineShopping.Test.csproj.CopyComplete
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\obj\Debug\IPT.OnlineShopping.Test.exe
+E:\Sem6\IPT\Lab\Ass Code\Ass_3\Sidra\OnlineShopping.Server\IPT.OnlineShopping.Test\obj\Debug\IPT.OnlineShopping.Test.pdb
